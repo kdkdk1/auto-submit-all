@@ -393,3 +393,4 @@
 2026-05-15 05:08:21,280 - INFO - 🎉 No pending URLs. All done!
 2026-05-15 05:08:22,341 - INFO - 🔚 WebDriver closed
 2026-05-20 11:56:59,535 - ERROR - ❌ PANEL_USER or PANEL_PASS not set! Check GitHub Secrets.
+2026-05-20 12:30:17,583 - ERROR - ❌ No valid URLs found in file
