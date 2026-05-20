@@ -407,3 +407,27 @@
 2026-05-20 13:02:58,516 - INFO - 🔚 WebDriver closed
 2026-05-20 13:30:16,901 - ERROR - ❌ No valid URLs found in file
 2026-05-20 14:30:18,060 - ERROR - ❌ No valid URLs found in file
+2026-05-20 14:40:45,310 - INFO - 🚀 Starting automation | Total URLs: 8
+2026-05-20 14:40:45,310 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-20 14:40:45,310 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-20 14:41:08,269 - INFO - ✅ WebDriver initialized
+2026-05-20 14:41:08,269 - INFO - 📦 Processing ALL 8 URLs
+2026-05-20 14:41:08,269 - INFO - 🔐 Logging into https://personal-fast-index.info/panel20/panel.php
+2026-05-20 14:41:11,000 - INFO - ✅ Login successful
+2026-05-20 14:41:11,000 - INFO - 🔄 [1/8] Submitting: https://universityservices.washu.edu/app/uploads/formidable/...
+2026-05-20 14:41:13,738 - INFO - ✅ Success: https://universityservices.washu.edu/app/uploads/formidable/52/Buy-AmBieiN_ZolpidemOnlineUsingh-HomeGu15121rklpo2027.pdf
+2026-05-20 14:41:15,240 - INFO - 🔄 [2/8] Submitting: https://www.nwamhc.com/wp-content/uploads/wpjobboard/applica...
+2026-05-20 14:41:17,822 - INFO - ✅ Success: https://www.nwamhc.com/wp-content/uploads/wpjobboard/application/tmp_s_1779255255-0172/file/simple-steps-buy-alprazolam-online-usingg-homestreetttttttt.pdf.pdf
+2026-05-20 14:41:19,324 - INFO - 🔄 [3/8] Submitting: https://www.nwamhc.com/wp-content/uploads/wpjobboard/applica...
+2026-05-20 14:41:21,502 - INFO - ✅ Success: https://www.nwamhc.com/wp-content/uploads/wpjobboard/application/tmp_s_1779236835-0557/file/Buy-Clonazepam-Online_420.pdf
+2026-05-20 14:41:23,003 - INFO - 🔄 [4/8] Submitting: https://www.nwamhc.com/wp-content/uploads/wpjobboard/applica...
+2026-05-20 14:41:25,205 - INFO - ✅ Success: https://www.nwamhc.com/wp-content/uploads/wpjobboard/application/tmp_s_1779235904-4195/file/SimpleTodaysHowTo-BuyTraMadol-OnlineUsing_SAVE30-USAAusanorxx.pdf
+2026-05-20 14:41:26,707 - INFO - 🔄 [5/8] Submitting: https://www.nwamhc.com/wp-content/uploads/wpjobboard/applica...
+2026-05-20 14:41:28,894 - INFO - ✅ Success: https://www.nwamhc.com/wp-content/uploads/wpjobboard/application/tmp_s_1779235904-4195/file/WaysToBuyTramadolOnlineINNNNNINGG.pdfffff.pdf
+2026-05-20 14:41:30,396 - INFO - 🔄 [6/8] Submitting: https://www.nwamhc.com/wp-content/uploads/wpjobboard/applica...
+2026-05-20 14:41:32,589 - INFO - ✅ Success: https://www.nwamhc.com/wp-content/uploads/wpjobboard/application/tmp_s_1779234016-7646/file/HowtoEasilyBuyXanaxOnlineAStepbyStepGiiideeeeeeeEEeee.pdf
+2026-05-20 14:41:34,090 - INFO - 🔄 [7/8] Submitting: https://www.nwamhc.com/wp-content/uploads/wpjobboard/applica...
+2026-05-20 14:41:36,286 - INFO - ✅ Success: https://www.nwamhc.com/wp-content/uploads/wpjobboard/application/tmp_s_1779234763-7711/file/HowtoEasilyBuyXanaxOnlineAStepbyStepGiiideeeeeeeeEE.pdf
+2026-05-20 14:41:37,788 - INFO - 🔄 [8/8] Submitting: https://www.nwamhc.com/wp-content/uploads/wpjobboard/applica...
+2026-05-20 14:41:39,971 - INFO - ✅ Success: https://www.nwamhc.com/wp-content/uploads/wpjobboard/application/tmp_s_1779234016-7646/file/Buy-Diazepam-OnlineeSADFGH-1206666.pdf
+2026-05-20 14:41:41,035 - INFO - 🔚 WebDriver closed
