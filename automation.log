@@ -1,0 +1,394 @@
+2026-04-29 17:08:30,158 - INFO - 🚀 Starting | URLs: 12
+2026-04-29 17:08:30,160 - INFO - ====== WebDriver manager ======
+2026-04-29 17:08:32,003 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 17:08:32,077 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 17:08:32,145 - INFO - There is no [linux64] chromedriver "147.0.7727.117" for browser google-chrome "147.0.7727" in cache
+2026-04-29 17:08:32,145 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 17:08:32,337 - INFO - WebDriver version 147.0.7727.117 selected
+2026-04-29 17:08:32,343 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/linux64/chromedriver-linux64.zip
+2026-04-29 17:08:32,344 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/linux64/chromedriver-linux64.zip
+2026-04-29 17:08:32,464 - INFO - Driver downloading response is 200
+2026-04-29 17:08:32,797 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 17:08:32,973 - INFO - Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/147.0.7727.117]
+2026-04-29 17:08:37,060 - INFO - 🎉 No pending URLs. All done!
+2026-04-29 17:08:38,120 - INFO - ✨ Cycle complete
+2026-04-29 17:52:26,507 - INFO - 🚀 Starting | URLs: 12
+2026-04-29 17:52:26,509 - INFO - ====== WebDriver manager ======
+2026-04-29 17:52:29,041 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 17:52:29,144 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 17:52:29,217 - INFO - There is no [linux64] chromedriver "147.0.7727.117" for browser google-chrome "147.0.7727" in cache
+2026-04-29 17:52:29,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 17:52:29,422 - INFO - WebDriver version 147.0.7727.117 selected
+2026-04-29 17:52:29,428 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/linux64/chromedriver-linux64.zip
+2026-04-29 17:52:29,428 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/linux64/chromedriver-linux64.zip
+2026-04-29 17:52:29,495 - INFO - Driver downloading response is 200
+2026-04-29 17:52:29,657 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 17:52:29,821 - INFO - Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/147.0.7727.117]
+2026-04-29 17:52:31,445 - INFO - 📦 Pending: 12/12 URLs
+2026-04-29 17:52:33,059 - INFO - ✅ Login successful
+2026-04-29 17:52:33,060 - INFO - 🔄 [1/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:52:35,204 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-Chicago-Transparen.pdf
+2026-04-29 17:52:36,705 - INFO - 🔄 [2/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:52:38,815 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-Los-Angeles-Brand.pdf
+2026-04-29 17:52:40,317 - INFO - 🔄 [3/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:52:42,428 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-Los-Angeles-Influe.pdf
+2026-04-29 17:52:43,930 - INFO - 🔄 [4/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:52:46,080 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-Los-Angeles-Revenu.pdf
+2026-04-29 17:52:47,582 - INFO - 🔄 [5/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:52:49,696 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-Los-Angeles-Social.pdf
+2026-04-29 17:52:51,198 - INFO - 🔄 [6/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:52:53,306 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-Los-Angeles-Video.pdf
+2026-04-29 17:52:54,808 - INFO - 🔄 [7/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:52:56,926 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-New-York-360-Degre.pdf
+2026-04-29 17:52:58,427 - INFO - 🔄 [8/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:53:00,538 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-New-York-Analytics.pdf
+2026-04-29 17:53:02,039 - INFO - 🔄 [9/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:53:04,151 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-New-York-Content-M.pdf
+2026-04-29 17:53:05,653 - INFO - 🔄 [10/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:53:07,771 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-New-York-Ecommerce.pdf
+2026-04-29 17:53:09,273 - INFO - 🔄 [11/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:53:11,385 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-New-York-Quick-Win.pdf
+2026-04-29 17:53:12,886 - INFO - 🔄 [12/12] https://longwoodce.org/wp-content/uploads/formidab...
+2026-04-29 17:53:15,000 - INFO - ✅ Done: https://longwoodce.org/wp-content/uploads/formidable/16/Hire-Digital-Marketing-Expert-USA-Data-Driven-Re.pdf
+2026-04-29 17:53:16,277 - INFO - ✨ Cycle complete
+2026-04-29 18:20:25,635 - INFO - 🚀 Starting | URLs: 1
+2026-04-29 18:20:25,637 - INFO - ====== WebDriver manager ======
+2026-04-29 18:20:27,757 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 18:20:27,795 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 18:20:27,823 - INFO - There is no [linux64] chromedriver "147.0.7727.117" for browser google-chrome "147.0.7727" in cache
+2026-04-29 18:20:27,823 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 18:20:27,923 - INFO - WebDriver version 147.0.7727.117 selected
+2026-04-29 18:20:27,928 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/linux64/chromedriver-linux64.zip
+2026-04-29 18:20:27,928 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/linux64/chromedriver-linux64.zip
+2026-04-29 18:20:27,964 - INFO - Driver downloading response is 200
+2026-04-29 18:20:28,023 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-29 18:20:28,171 - INFO - Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/147.0.7727.117]
+2026-04-29 18:20:31,642 - INFO - 📦 Pending: 1/1 URLs
+2026-04-29 18:20:32,754 - INFO - ✅ Login successful
+2026-04-29 18:20:32,754 - INFO - 🔄 [1/1] https://www.burnaby.ca/sites/default/files/webform...
+2026-04-29 18:20:34,912 - INFO - ✅ Done: https://www.burnaby.ca/sites/default/files/webform/Affordable-Digital-Marketing-Expert-Billings-Monta.pdf
+2026-04-29 18:20:35,973 - INFO - ✨ Cycle complete
+2026-04-30 00:32:00,064 - INFO - 🚀 Starting | URLs: 1
+2026-04-30 00:32:00,066 - INFO - ====== WebDriver manager ======
+2026-04-30 00:32:02,410 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-30 00:32:02,468 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-30 00:32:02,535 - INFO - There is no [linux64] chromedriver "147.0.7727.117" for browser google-chrome "147.0.7727" in cache
+2026-04-30 00:32:02,535 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-30 00:32:02,654 - INFO - WebDriver version 147.0.7727.117 selected
+2026-04-30 00:32:02,659 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/linux64/chromedriver-linux64.zip
+2026-04-30 00:32:02,659 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/147.0.7727.117/linux64/chromedriver-linux64.zip
+2026-04-30 00:32:02,723 - INFO - Driver downloading response is 200
+2026-04-30 00:32:02,908 - INFO - Get LATEST chromedriver version for google-chrome
+2026-04-30 00:32:03,045 - INFO - Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/147.0.7727.117]
+2026-04-30 00:32:07,297 - INFO - 🎉 No pending URLs. All done!
+2026-04-30 00:32:08,357 - INFO - ✨ Cycle complete
+2026-04-30 11:14:29,130 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-04-30 11:14:29,131 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-04-30 11:14:29,131 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-04-30 11:14:32,561 - INFO - ✅ WebDriver initialized
+2026-04-30 11:14:32,561 - INFO - 🎉 No pending URLs. All done!
+2026-04-30 11:14:33,621 - INFO - 🔚 WebDriver closed
+2026-04-30 11:15:57,191 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-04-30 11:15:57,191 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-04-30 11:15:57,191 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-04-30 11:16:01,348 - INFO - ✅ WebDriver initialized
+2026-04-30 11:16:01,348 - INFO - 📦 Processing 1/1 pending URLs
+2026-04-30 11:16:01,348 - INFO - 🔐 Logging into https://personal-fast-index.info/panel20/panel.php
+2026-04-30 11:16:02,476 - INFO - ✅ Login successful
+2026-04-30 11:16:02,476 - INFO - 🔄 [1/1] Submitting: https://www.burnaby.ca/sites/default/files/webform/Affordabl...
+2026-04-30 11:16:04,937 - INFO - ✅ Success: https://www.burnaby.ca/sites/default/files/webform/Affordable-Digital-Marketing-Expert-Billings-Monta.pdf
+2026-04-30 11:16:05,998 - INFO - 🔚 WebDriver closed
+2026-04-30 14:09:53,080 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-04-30 14:09:53,080 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-04-30 14:09:53,080 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-04-30 14:09:59,391 - INFO - ✅ WebDriver initialized
+2026-04-30 14:09:59,391 - INFO - 📦 Processing 1/1 pending URLs
+2026-04-30 14:09:59,391 - INFO - 🔐 Logging into https://personal-fast-index.info/panel20/panel.php
+2026-04-30 14:10:00,724 - INFO - ✅ Login successful
+2026-04-30 14:10:00,724 - INFO - 🔄 [1/1] Submitting: https://careers.asq.org/company/buy-ambien-online-overnight-...
+2026-04-30 14:10:02,917 - INFO - ✅ Success: https://careers.asq.org/company/buy-ambien-online-overnight-easily-step-by-step-guide-64008
+2026-04-30 14:10:03,979 - INFO - 🔚 WebDriver closed
+2026-04-30 21:36:37,411 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-04-30 21:36:37,411 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-04-30 21:36:37,411 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-04-30 21:36:49,708 - INFO - ✅ WebDriver initialized
+2026-04-30 21:36:49,708 - INFO - 🎉 No pending URLs. All done!
+2026-04-30 21:36:50,765 - INFO - 🔚 WebDriver closed
+2026-05-01 01:50:11,619 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-01 01:50:11,619 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-01 01:50:11,619 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-01 01:50:21,949 - INFO - ✅ WebDriver initialized
+2026-05-01 01:50:21,949 - INFO - 🎉 No pending URLs. All done!
+2026-05-01 01:50:23,007 - INFO - 🔚 WebDriver closed
+2026-05-01 05:05:59,500 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-01 05:05:59,500 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-01 05:05:59,500 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-01 05:05:59,995 - INFO - ✅ WebDriver initialized
+2026-05-01 05:05:59,995 - INFO - 🎉 No pending URLs. All done!
+2026-05-01 05:06:01,052 - INFO - 🔚 WebDriver closed
+2026-05-01 13:56:39,125 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-01 13:56:39,125 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-01 13:56:39,125 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-01 13:56:43,619 - INFO - ✅ WebDriver initialized
+2026-05-01 13:56:43,619 - INFO - 🎉 No pending URLs. All done!
+2026-05-01 13:56:44,679 - INFO - 🔚 WebDriver closed
+2026-05-01 17:16:50,202 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-01 17:16:50,202 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-01 17:16:50,202 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-01 17:16:58,071 - INFO - ✅ WebDriver initialized
+2026-05-01 17:16:58,071 - INFO - 🎉 No pending URLs. All done!
+2026-05-01 17:16:59,132 - INFO - 🔚 WebDriver closed
+2026-05-01 21:11:49,908 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-01 21:11:49,908 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-01 21:11:49,908 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-01 21:11:56,022 - INFO - ✅ WebDriver initialized
+2026-05-01 21:11:56,023 - INFO - 🎉 No pending URLs. All done!
+2026-05-01 21:11:57,083 - INFO - 🔚 WebDriver closed
+2026-05-02 01:40:57,077 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-02 01:40:57,078 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-02 01:40:57,078 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-02 01:41:00,593 - INFO - ✅ WebDriver initialized
+2026-05-02 01:41:00,593 - INFO - 🎉 No pending URLs. All done!
+2026-05-02 01:41:01,653 - INFO - 🔚 WebDriver closed
+2026-05-02 04:41:42,435 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-02 04:41:42,436 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-02 04:41:42,436 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-02 04:41:46,317 - INFO - ✅ WebDriver initialized
+2026-05-02 04:41:46,318 - INFO - 🎉 No pending URLs. All done!
+2026-05-02 04:41:47,378 - INFO - 🔚 WebDriver closed
+2026-05-02 12:40:38,314 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-02 12:40:38,314 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-02 12:40:38,314 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-02 12:40:44,131 - INFO - ✅ WebDriver initialized
+2026-05-02 12:40:44,131 - INFO - 🎉 No pending URLs. All done!
+2026-05-02 12:40:45,191 - INFO - 🔚 WebDriver closed
+2026-05-02 16:42:34,635 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-02 16:42:34,636 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-02 16:42:34,636 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-02 16:42:41,438 - INFO - ✅ WebDriver initialized
+2026-05-02 16:42:41,438 - INFO - 🎉 No pending URLs. All done!
+2026-05-02 16:42:42,495 - INFO - 🔚 WebDriver closed
+2026-05-02 20:38:44,452 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-02 20:38:44,452 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-02 20:38:44,452 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-02 20:38:54,245 - INFO - ✅ WebDriver initialized
+2026-05-02 20:38:54,245 - INFO - 🎉 No pending URLs. All done!
+2026-05-02 20:38:55,305 - INFO - 🔚 WebDriver closed
+2026-05-03 01:13:45,273 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-03 01:13:45,273 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-03 01:13:45,273 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-03 01:13:57,052 - INFO - ✅ WebDriver initialized
+2026-05-03 01:13:57,052 - INFO - 🎉 No pending URLs. All done!
+2026-05-03 01:13:58,112 - INFO - 🔚 WebDriver closed
+2026-05-03 03:54:36,769 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-03 03:54:36,770 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-03 03:54:36,770 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-03 03:54:41,783 - INFO - ✅ WebDriver initialized
+2026-05-03 03:54:41,783 - INFO - 🎉 No pending URLs. All done!
+2026-05-03 03:54:42,843 - INFO - 🔚 WebDriver closed
+2026-05-03 12:44:04,559 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-03 12:44:04,559 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-03 12:44:04,559 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-03 12:44:09,826 - INFO - ✅ WebDriver initialized
+2026-05-03 12:44:09,826 - INFO - 🎉 No pending URLs. All done!
+2026-05-03 12:44:10,886 - INFO - 🔚 WebDriver closed
+2026-05-03 16:40:34,031 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-03 16:40:34,032 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-03 16:40:34,032 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-03 16:40:39,047 - INFO - ✅ WebDriver initialized
+2026-05-03 16:40:39,047 - INFO - 🎉 No pending URLs. All done!
+2026-05-03 16:40:40,108 - INFO - 🔚 WebDriver closed
+2026-05-03 20:38:55,337 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-03 20:38:55,337 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-03 20:38:55,337 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-03 20:39:03,945 - INFO - ✅ WebDriver initialized
+2026-05-03 20:39:03,945 - INFO - 🎉 No pending URLs. All done!
+2026-05-03 20:39:05,006 - INFO - 🔚 WebDriver closed
+2026-05-04 01:12:51,145 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-04 01:12:51,145 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-04 01:12:51,145 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-04 01:12:54,021 - INFO - ✅ WebDriver initialized
+2026-05-04 01:12:54,021 - INFO - 🎉 No pending URLs. All done!
+2026-05-04 01:12:55,081 - INFO - 🔚 WebDriver closed
+2026-05-04 03:56:00,722 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-04 03:56:00,722 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-04 03:56:00,722 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-04 03:56:02,970 - INFO - ✅ WebDriver initialized
+2026-05-04 03:56:02,970 - INFO - 🎉 No pending URLs. All done!
+2026-05-04 03:56:04,028 - INFO - 🔚 WebDriver closed
+2026-05-04 13:37:48,096 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-04 13:37:48,096 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-04 13:37:48,096 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-04 13:37:54,577 - INFO - ✅ WebDriver initialized
+2026-05-04 13:37:54,577 - INFO - 🎉 No pending URLs. All done!
+2026-05-04 13:37:55,637 - INFO - 🔚 WebDriver closed
+2026-05-04 21:03:13,862 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-04 21:03:13,862 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-04 21:03:13,862 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-04 21:03:18,969 - INFO - ✅ WebDriver initialized
+2026-05-04 21:03:18,970 - INFO - 🎉 No pending URLs. All done!
+2026-05-04 21:03:20,030 - INFO - 🔚 WebDriver closed
+2026-05-05 02:20:08,595 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-05 02:20:08,595 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-05 02:20:08,595 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-05 02:20:14,229 - INFO - ✅ WebDriver initialized
+2026-05-05 02:20:14,229 - INFO - 🎉 No pending URLs. All done!
+2026-05-05 02:20:15,286 - INFO - 🔚 WebDriver closed
+2026-05-05 12:02:02,966 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-05 12:02:02,967 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-05 12:02:02,967 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-05 12:02:05,344 - INFO - ✅ WebDriver initialized
+2026-05-05 12:02:05,344 - INFO - 🎉 No pending URLs. All done!
+2026-05-05 12:02:06,403 - INFO - 🔚 WebDriver closed
+2026-05-05 17:41:34,839 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-05 17:41:34,839 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-05 17:41:34,839 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-05 17:41:36,930 - INFO - ✅ WebDriver initialized
+2026-05-05 17:41:36,930 - INFO - 🎉 No pending URLs. All done!
+2026-05-05 17:41:38,112 - INFO - 🔚 WebDriver closed
+2026-05-05 22:39:26,594 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-05 22:39:26,594 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-05 22:39:26,595 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-05 22:39:42,904 - INFO - ✅ WebDriver initialized
+2026-05-05 22:39:42,904 - INFO - 🎉 No pending URLs. All done!
+2026-05-05 22:39:43,964 - INFO - 🔚 WebDriver closed
+2026-05-06 03:16:21,000 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-06 03:16:21,000 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-06 03:16:21,000 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-06 03:16:25,690 - INFO - ✅ WebDriver initialized
+2026-05-06 03:16:25,690 - INFO - 🎉 No pending URLs. All done!
+2026-05-06 03:16:26,748 - INFO - 🔚 WebDriver closed
+2026-05-06 21:36:44,419 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-06 21:36:44,419 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-06 21:36:44,419 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-06 21:36:49,759 - INFO - ✅ WebDriver initialized
+2026-05-06 21:36:49,759 - INFO - 🎉 No pending URLs. All done!
+2026-05-06 21:36:50,817 - INFO - 🔚 WebDriver closed
+2026-05-07 02:27:47,048 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-07 02:27:47,048 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-07 02:27:47,048 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-07 02:27:52,692 - INFO - ✅ WebDriver initialized
+2026-05-07 02:27:52,692 - INFO - 🎉 No pending URLs. All done!
+2026-05-07 02:27:53,753 - INFO - 🔚 WebDriver closed
+2026-05-07 13:35:07,723 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-07 13:35:07,723 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-07 13:35:07,724 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-07 13:35:14,407 - INFO - ✅ WebDriver initialized
+2026-05-07 13:35:14,407 - INFO - 🎉 No pending URLs. All done!
+2026-05-07 13:35:15,468 - INFO - 🔚 WebDriver closed
+2026-05-15 00:48:12,184 - INFO - 🚀 Starting automation | Total URLs: 51
+2026-05-15 00:48:12,185 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-15 00:48:12,185 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-15 00:48:23,121 - INFO - ✅ WebDriver initialized
+2026-05-15 00:48:23,121 - INFO - 📦 Processing 51/51 pending URLs
+2026-05-15 00:48:23,121 - INFO - 🔐 Logging into https://personal-fast-index.info/panel20/panel.php
+2026-05-15 00:48:24,518 - INFO - ✅ Login successful
+2026-05-15 00:48:24,519 - INFO - 🔄 [1/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/xanax-...
+2026-05-15 00:48:26,766 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/xanax-home-delivery-guides-gg1k-xanax9999homedelivery-usa.pdf
+2026-05-15 00:48:28,268 - INFO - 🔄 [2/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/00333B...
+2026-05-15 00:48:30,462 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/00333BestPlacesto-Buy-Alprazolam-Online-NoRX011-usaa.pdf
+2026-05-15 00:48:31,964 - INFO - 🔄 [3/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/HowTo0...
+2026-05-15 00:48:34,118 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/HowTo00.pdf
+2026-05-15 00:48:35,619 - INFO - 🔄 [4/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/SiMpLe...
+2026-05-15 00:48:37,801 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/SiMpLeStEpSHowtoBuySomaOnlinerapides-04-2026.pdf
+2026-05-15 00:48:39,302 - INFO - 🔄 [5/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/0909Bu...
+2026-05-15 00:48:41,476 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/0909BuyCODEINEOnlineNORXTUTUUUUUUU.pdf
+2026-05-15 00:48:42,977 - INFO - 🔄 [6/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/buytra...
+2026-05-15 00:48:45,158 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/buytramadolonline247rapidhomebaseDeliveRY.pdf.pdf
+2026-05-15 00:48:46,660 - INFO - 🔄 [7/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/buytra...
+2026-05-15 00:48:48,841 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/buytramadolonline247rapidhomebaseDeliveRY87y3ruh.pdf
+2026-05-15 00:48:50,343 - INFO - 🔄 [8/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/simply...
+2026-05-15 00:48:52,786 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/simply-step-medspanaceeea-444444444567.pdf
+2026-05-15 00:48:54,288 - INFO - 🔄 [9/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/howtoB...
+2026-05-15 00:48:56,501 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/howtoBuyAdderallOnlineNoRXQuickEaseInntTsruasd01.pdf.pdf.pdf
+2026-05-15 00:48:58,003 - INFO - 🔄 [10/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/howing...
+2026-05-15 00:49:00,198 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/howingstoBuyAdderallOnlineNoRXQuickEaseInntTsruasd01010101010.pdf
+2026-05-15 00:49:01,700 - INFO - 🔄 [11/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/GuideT...
+2026-05-15 00:49:03,876 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/GuideToBuyAdderallOnlineStepGuideeesss.pdf
+2026-05-15 00:49:05,377 - INFO - 🔄 [12/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/GuideT...
+2026-05-15 00:49:07,546 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/GuideToBuyAdderallOnlineStepGuide01.pdf
+2026-05-15 00:49:09,047 - INFO - 🔄 [13/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/ambien...
+2026-05-15 00:49:11,210 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/ambiennefij33wijc.pdf
+2026-05-15 00:49:12,711 - INFO - 🔄 [14/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/HowtoB...
+2026-05-15 00:49:14,881 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/HowtoBuyAmbienOnlineWithouthel-25555.pdf
+2026-05-15 00:49:16,383 - INFO - 🔄 [15/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/wheret...
+2026-05-15 00:49:18,580 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/wheretobuyambienbestonlineABssovernightdeliveryNorxpharmaciessssss.pdf.pdf
+2026-05-15 00:49:20,081 - INFO - 🔄 [16/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/step-b...
+2026-05-15 00:49:22,280 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/step-by-step-guide-to-buy-valium.pdf
+2026-05-15 00:49:23,781 - INFO - 🔄 [17/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/valium...
+2026-05-15 00:49:25,944 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/valium37g8hfwijc.pdf
+2026-05-15 00:49:27,446 - INFO - 🔄 [18/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/465346...
+2026-05-15 00:49:29,629 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/46534638gRefillliumOnline76378783ije.pdf
+2026-05-15 00:49:31,131 - INFO - 🔄 [19/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/StepBy...
+2026-05-15 00:49:33,306 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/StepByStepGuideToBuyValiumOnlin323r4.pdf
+2026-05-15 00:49:34,807 - INFO - 🔄 [20/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/Buyr-D...
+2026-05-15 00:49:36,973 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/Buyr-Diazepam-Onlinee.pdf
+2026-05-15 00:49:38,475 - INFO - 🔄 [21/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/Valium...
+2026-05-15 00:49:40,639 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/ValiumOnline71111.pdf
+2026-05-15 00:49:42,140 - INFO - 🔄 [22/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/Buy-Di...
+2026-05-15 00:49:44,311 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/Buy-Diazepam-Onlinee12e3rgrth.pdf
+2026-05-15 00:49:45,813 - INFO - 🔄 [23/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/545buy...
+2026-05-15 00:49:47,997 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/545buyhydrocodotant565MARCHaq897879WSEGREEE.pdf
+2026-05-15 00:49:49,499 - INFO - 🔄 [24/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/howtob...
+2026-05-15 00:49:51,662 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/howtobuyativanonlinen.pdf.pdf
+2026-05-15 00:49:53,164 - INFO - 🔄 [25/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/Buy-CL...
+2026-05-15 00:49:55,347 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/Buy-CLONAZEPAM-Online-NO-RX-RCB-CSK26.pdf.pdf.pdf
+2026-05-15 00:49:56,848 - INFO - 🔄 [26/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/simple...
+2026-05-15 00:49:59,327 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/simple-steps-to-buy-clonazepam-klonopin-online-overnight-no-rx-safe-chemist-providdddDD.pdf.pdf
+2026-05-15 00:50:00,828 - INFO - 🔄 [27/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/hh6a03...
+2026-05-15 00:50:03,028 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/hh6a0369f9de2f3_howtobuyvicodinonline14kjfeg3wfg1234545.pdf.pdf
+2026-05-15 00:50:04,529 - INFO - 🔄 [28/51] Submitting: https://www.theamazinggive.org/p2p/706918/trramadol-onllllli...
+2026-05-15 00:50:06,976 - INFO - ✅ Success: https://www.theamazinggive.org/p2p/706918/trramadol-onllllline-immerse-yourself-in-elite-sophisticationorder-today
+2026-05-15 00:50:08,478 - INFO - 🔄 [29/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/REaViG...
+2026-05-15 00:50:10,679 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/REaViGPB_EidaXAiQ_HowToBuyAmbienOnline_Headlinesssghjjj_DeliveryLiveewfegbf.pdf
+2026-05-15 00:50:12,181 - INFO - 🔄 [30/51] Submitting: https://teamheart.org/wp-content/uploads/formidable/2/xanax-...
+2026-05-15 00:50:14,376 - INFO - ✅ Success: https://teamheart.org/wp-content/uploads/formidable/2/xanax-home-delivery-guide-gg1k-xanax9999homedeliveryordernowwwwww.pdf
+2026-05-15 00:50:15,878 - INFO - 🔄 [31/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:18,077 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/6a031ee9c0d20_howwwwtooobuuuyyyambieennnonlineeeeszdcccd.pdf
+2026-05-15 00:50:19,579 - INFO - 🔄 [32/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:21,757 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/BuyXaNax_Online-UsiNgHoMe_0000.pdf
+2026-05-15 00:50:23,257 - INFO - 🔄 [33/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:25,457 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/step-by-step-guide-to-buy-xanax-online-safely-in-2026.pdf
+2026-05-15 00:50:26,959 - INFO - 🔄 [34/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:29,142 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/SecureWayTobuysomaOnlineee02667876s.pdf
+2026-05-15 00:50:30,644 - INFO - 🔄 [35/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:32,836 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/step-by-step-guide-to-buy-somaa-online-safely-in-2026.pdf
+2026-05-15 00:50:34,337 - INFO - 🔄 [36/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:36,791 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/SeCuReWaYToBuYSoMaOnLineASimPleSTePbySTePGuiDeeee.pdf
+2026-05-15 00:50:38,293 - INFO - 🔄 [37/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:40,758 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/SimpleStepsHowtoBuyAlpRazolaMOnlineUsingHomeDeliveredDDDddddd.pdf
+2026-05-15 00:50:42,260 - INFO - 🔄 [38/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:44,448 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/HowtoEasilyBuyXanaxOnlineAStepbyStepGdeeee.pdf
+2026-05-15 00:50:45,950 - INFO - 🔄 [39/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:48,169 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/zclkSBXv_REaViGPB_EidaXAiQ_HowToBuyAmbienOnlineee_Headlllinesssghjjjj_pdff_pdf.pdf
+2026-05-15 00:50:49,671 - INFO - 🔄 [40/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:51,897 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/zclkSBXv_REaViGPB_EidaXAiQ_HowToBuyAmbienOnlineee_Headlllinesssghjjjj_pdff_pdffegwrhwf.pdf
+2026-05-15 00:50:53,399 - INFO - 🔄 [41/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:55,621 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/how-to-buy-valium-online-no-rx-overnight-lightly-step-by-step-guide-what-everyone-should-know.pdf
+2026-05-15 00:50:57,123 - INFO - 🔄 [42/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:50:59,341 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/how-to-buy-clonazepam-online-no-rx-compact-step-by-step-what-everyone-should-know.pdf
+2026-05-15 00:51:00,843 - INFO - 🔄 [43/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:51:03,056 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/how-to-buy-farmapram-online-no-rx-compact-step-by-step-expert-guide-tips.pdf
+2026-05-15 00:51:04,558 - INFO - 🔄 [44/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:51:06,774 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/how-to-buy-hydrocodone-online-no-rx-compact-step-by-step-what-everyone-should-know.pdf
+2026-05-15 00:51:08,275 - INFO - 🔄 [45/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:51:10,494 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/how-to-buy-oxycodone-online-no-rx-compact-step-by-step-everything-you-need-to-know.pdf
+2026-05-15 00:51:11,995 - INFO - 🔄 [46/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:51:14,208 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/how-to-buy-vicodin-online-no-rx-compact-step-by-step-everything-you-need-to-know.pdf
+2026-05-15 00:51:15,709 - INFO - 🔄 [47/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:51:17,906 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/SimpleTodaysHowTo-BuyTraMadol-OnlineUsing_SAVE10-USAAAA.pdf
+2026-05-15 00:51:19,407 - INFO - 🔄 [48/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:51:21,578 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/EasyyWaystoOrderssssss.pdf
+2026-05-15 00:51:23,079 - INFO - 🔄 [49/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:51:25,554 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/the-ultimate-how-to-buy-adderall-online-no-rx-quick-ease-instant-trusted-mid-supply-review.pdf
+2026-05-15 00:51:27,055 - INFO - 🔄 [50/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:51:29,219 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/EasyWaystoOrderss.pdf
+2026-05-15 00:51:30,721 - INFO - 🔄 [51/51] Submitting: https://floridacot.org/sites/default/files/webform/abstracts...
+2026-05-15 00:51:32,940 - INFO - ✅ Success: https://floridacot.org/sites/default/files/webform/abstracts2023/simple-steps-how-to-buy-soma-online-using-home-delivery-telehealth-everything-you-need-to-know.pdf
+2026-05-15 00:51:34,031 - INFO - 🔚 WebDriver closed
+2026-05-15 05:07:47,953 - INFO - 🚀 Starting automation | Total URLs: 51
+2026-05-15 05:07:47,953 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-15 05:07:47,954 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-15 05:08:21,280 - INFO - ✅ WebDriver initialized
+2026-05-15 05:08:21,280 - INFO - 🎉 No pending URLs. All done!
+2026-05-15 05:08:22,341 - INFO - 🔚 WebDriver closed
