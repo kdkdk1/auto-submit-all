@@ -395,3 +395,13 @@
 2026-05-20 11:56:59,535 - ERROR - ❌ PANEL_USER or PANEL_PASS not set! Check GitHub Secrets.
 2026-05-20 12:30:17,583 - ERROR - ❌ No valid URLs found in file
 2026-05-20 12:52:48,649 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-20 13:02:34,438 - INFO - 🚀 Starting automation | Total URLs: 1
+2026-05-20 13:02:34,438 - INFO - 🎯 Using browser binary: /usr/bin/chromium
+2026-05-20 13:02:34,438 - INFO - 🎯 Using chromedriver: /usr/bin/chromedriver
+2026-05-20 13:02:53,153 - INFO - ✅ WebDriver initialized
+2026-05-20 13:02:53,153 - INFO - 📦 Processing ALL 1 URLs
+2026-05-20 13:02:53,153 - INFO - 🔐 Logging into https://personal-fast-index.info/panel20/panel.php
+2026-05-20 13:02:54,876 - INFO - ✅ Login successful
+2026-05-20 13:02:54,876 - INFO - 🔄 [1/1] Submitting: https://universityservices.washu.edu/app/uploads/formidable/...
+2026-05-20 13:02:57,452 - INFO - ✅ Success: https://universityservices.washu.edu/app/uploads/formidable/52/Buy-Ambien-Online-Safe-Use-Side-Effects-and-Bet.pdf
+2026-05-20 13:02:58,516 - INFO - 🔚 WebDriver closed
